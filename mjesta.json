@@ -1,1 +1,73 @@
+[
+  {
+    "funName": "Visit to Stožer",
+    "imageFile": "https://img.freepik.com/free-photo/meadow-surrounded-by-hills-covered-bushes-trees-cloudy-sky-sunlight_181624-14881.jpg?t=st=1720196824~exp=1720200424~hmac=df2eea5bf55f6176f003ae0d54bcd41c378579c12b2b24d286d1dc3066e5f571&w=2000",
+    "description": "Experience the natural beauty and skiing opportunities at Mount Stožer, a popular winter and hiking destination near Bugojno.",
+    "duration": "4h",
+    "price": "Free",
+    "address": "Bugojno",
+    "type": "nature",
+    "location": "43.964791, 17.454817"
+  },
+  {
+    "funName": "Visit to Vranica Mountain",
+    "imageFile": "https://img.freepik.com/premium-photo/aerial-view-ski-resort-with-slopes-copy-space_259348-1068.jpg?w=2000",
+    "description": "Explore the breathtaking views of Vranica Mountain, perfect for hiking and nature walks in the summer and skiing during the winter season.",
+    "duration": "5h",
+    "price": "Free",
+    "address": "Bugojno",
+    "type": "nature",
+    "location": "43.939167, 17.583611"
+  },
+  {
+    "funName": "Visit to Kupres Lake",
+    "imageFile": "https://img.freepik.com/free-photo/house-isolated-field_1303-23773.jpg?t=st=1720196800~exp=1720200400~hmac=382e7734f0564bcbf9f90bfa1752201ae75212050166266a81b9836a6077e144&w=2000",
+    "description": "Relax by the serene Kupres Lake, ideal for fishing, picnicking, and enjoying a peaceful day surrounded by beautiful nature.",
+    "duration": "3h",
+    "price": "Free",
+    "address": "Kupres, near Bugojno",
+    "type": "leisure",
+    "location": "43.990833, 17.264722"
+  },
+  {
+    "funName": "Visit to Prusac Waterfall",
+    "imageFile": "https://img.freepik.com/premium-photo/autumn-leaves-tree_1048944-12573380.jpg?w=1060",
+    "description": "Discover the stunning Prusac Waterfall, a perfect spot for nature lovers and photographers, offering scenic views and a tranquil atmosphere.",
+    "duration": "2h",
+    "price": "Free",
+    "address": "Prusac, near Bugojno",
+    "type": "nature",
+    "location": "43.934528, 17.583583"
+  },
+  {
+    "funName": "Visit to Raduša Mountain",
+    "imageFile": "https://img.freepik.com/premium-photo/peaceful-landscapes-nature_764772-213.jpg?w=2000",
+    "description": "Enjoy a day at Raduša Mountain, known for its hiking trails and breathtaking views. Ideal for outdoor enthusiasts and adventurers.",
+    "duration": "4h",
+    "price": "Free",
+    "address": "Bugojno",
+    "type": "nature",
+    "location": "43.994822, 17.522055"
+  },
+  {
+    "funName": "Visit to Pločno Peak",
+    "imageFile": "https://img.freepik.com/premium-photo/peaceful-landscapes-nature_764772-192.jpg?w=2000",
+    "description": "Climb Pločno Peak, the highest point in the Vranica mountain range, offering panoramic views and a challenging hike for adventurers.",
+    "duration": "6h",
+    "price": "Free",
+    "address": "Bugojno",
+    "type": "nature",
+    "location": "43.938611, 17.670556"
+  },
+  {
+    "funName": "Visit to Skakavac Waterfall near Bugojno",
+    "imageFile": "https://img.freepik.com/premium-photo/houses-ukrainian-carpathians_651454-1701.jpg?w=996",
+    "description": "Marvel at the stunning Skakavac Waterfall near Bugojno. A perfect spot for hiking and nature photography, offering breathtaking views and fresh mountain air.",
+    "duration": "3h",
+    "price": "Free",
+    "address": "Bugojno",
+    "type": "nature",
+    "location": "44.057778, 17.495278"
+  }
+]
 
