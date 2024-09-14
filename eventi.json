@@ -1,1 +1,66 @@
+[
+  {
+    "eventName": "Lorem Ipsum Cycling Event",
+    "imageFile": "https://img.freepik.com/free-photo/mountain-cyclists-stand-top-mountain-with-bike-point-finger-front_1150-19014.jpg?t=st=1720196094~exp=1720199694~hmac=a166f55c94f755f177c1fea8e55b6d64d049d40da5a7427f30cf65b19f602fbe&w=2000",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam faucibus nisi eu tincidunt consequat. Praesent in libero ultricies, dapibus purus et, tempus risus. Morbi faucibus felis et mauris dignissim, at scelerisque enim venenatis.",
+    "time": "Every weekend in June and July",
+    "price": "Free",
+    "location": "44.1716, 17.5966",
+    "address": "Trg Alije Izetbegovića, Bugojno"
+  },
+  {
+    "eventName": "Lorem Ipsum Quad Adventure",
+    "imageFile": "https://img.freepik.com/free-photo/quad-atv-cars-all-terrain-vehicle-parked-mountain-road_93675-134828.jpg?t=st=1720196175~exp=1720199775~hmac=826381c38578a2f22b4acf46a2c4e979c0a8bd9c0d91bef66e92c90d85a5818c&w=2000",
+    "description": "Vestibulum sit amet orci et nunc ullamcorper suscipit nec et nisl. Suspendisse potenti. Duis nec facilisis mauris, ac pharetra felis. Sed malesuada libero eu odio auctor, non vulputate lectus volutpat.",
+    "time": "Every Saturday from May to August",
+    "price": "Free",
+    "location": "44.1716, 17.5966",
+    "address": "Stari Grad, Bugojno"
+  },
+  {
+    "eventName": "Lorem Ipsum Youth Games",
+    "imageFile": "https://img.freepik.com/premium-photo/children-are-playing-with-their-hands-clasped-together_73944-17621.jpg?w=2000",
+    "description": "Curabitur malesuada turpis ut lacus tincidunt, et hendrerit elit sollicitudin. Aenean sit amet quam vehicula, imperdiet ligula nec, feugiat nulla. Nam interdum lorem non nulla auctor feugiat.",
+    "time": "10-15.8.2024.",
+    "price": "Free",
+    "location": "44.1716, 17.5966",
+    "address": "Sportski Centar, Bugojno"
+  },
+  {
+    "eventName": "Lorem Ipsum Football Tournament",
+    "imageFile": "https://img.freepik.com/premium-photo/full-length-friends-soccer-field_1048944-23587126.jpg?w=1060",
+    "description": "Sed interdum libero in ex dictum, id posuere elit lacinia. Ut dictum lacus ut velit luctus, eu sagittis ante vulputate. Donec suscipit ligula ac arcu fermentum, ac ullamcorper nisi volutpat.",
+    "time": "1-7.9.2024.",
+    "price": "Free",
+    "location": "44.1716, 17.5966",
+    "address": "Fudbalski Stadion, Bugojno"
+  },
+  {
+    "eventName": "Lorem Ipsum Summer Festival",
+    "imageFile": "https://img.freepik.com/premium-photo/image-description-three-young-women-are-dancing-having-fun-music-festival-they-are-all-wearing-sunglasses-smiling_14117-516039.jpg?w=2000",
+    "description": "Nam facilisis velit sit amet nibh laoreet, eu tincidunt ante volutpat. Duis ac ligula a odio ultrices cursus. Integer aliquam nunc ut orci vehicula, ac bibendum lacus facilisis.",
+    "time": "5-7.6.2024.",
+    "price": "Free",
+    "location": "44.1716, 17.5966",
+    "address": "Park Bugojno, Bugojno"
+  },
+  {
+    "eventName": "Lorem Ipsum Soccer Match",
+    "imageFile": "https://img.freepik.com/free-photo/full-shot-men-playing-soccer_23-2150405440.jpg?t=st=1720196305~exp=1720199905~hmac=050fd38d2cf1d46cce6d4a56a5d284e2d8028df7a16debbfe2f47bbae11cd0a1&w=2000",
+    "description": "Mauris feugiat quam vitae dolor venenatis, sed vestibulum est iaculis. Phasellus fringilla lectus eget purus cursus, nec tempus nulla placerat. Cras nec urna a nisi suscipit condimentum.",
+    "time": "20.8.2024.",
+    "price": "Free",
+    "location": "44.1716, 17.5966",
+    "address": "Školski Stadion, Bugojno"
+  },
+  {
+    "eventName": "Lorem Ipsum Cultural Review",
+    "imageFile": "https://img.freepik.com/free-photo/people-dancing-folk-full-shot_23-2149741883.jpg?t=st=1720196443~exp=1720200043~hmac=39a28cbb35fe4622012cfddfc9cb1e828c38acbed1ce27345f2e8cb0f8df6f90&w=2000",
+    "description": "Aliquam erat volutpat. Sed volutpat sapien a nulla malesuada, ut vehicula sem blandit. Curabitur vel erat non eros pharetra dapibus. Donec nec neque fringilla, feugiat risus in, egestas nulla.",
+    "time": "12-14.9.2024.",
+    "price": "Free",
+    "location": "44.1716, 17.5966",
+    "address": "Dom Kulture, Bugojno"
+  }
+]
 
