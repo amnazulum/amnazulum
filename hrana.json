@@ -1,1 +1,66 @@
+[
+  {
+    "foodName": "Dolce Vita Café",
+    "imageFile": "https://img.freepik.com/free-photo/front-view-cup-cappuccino-with-cookies-book-table_141793-2825.jpg?t=st=1720197171~exp=1720200771~hmac=eb4e66e01667884ae89643bd9b11d03f51848d4c341050c9cd52df411e64b142&w=1060",
+    "description": "Experience a delightful range of gourmet coffees and artisanal pastries at Dolce Vita Café. Enjoy a cozy atmosphere perfect for relaxing or catching up with friends.",
+    "duration": "Mon-Sun (08:00-22:00)",
+    "address": "Trg Slobode 2, Bugojno",
+    "type": "coffee shop",
+    "location": "44.1716, 17.5966"
+  },
+  {
+    "foodName": "Bosnian Delights",
+    "imageFile": "https://img.freepik.com/free-photo/front-view-meat-pie-inside-pan-dark-background-pastry-bake-cake-biscuit-dough-color-food-oven-pies_179666-46981.jpg?t=st=1720197222~exp=1720200822~hmac=5137611987e8a0de446652f09bdfca36d6e9376f1df32d99bdb20fa775bf44e7&w=996",
+    "description": "Savor the flavors of traditional Bosnian cuisine at Bosnian Delights. Offering a menu full of local favorites made from fresh, high-quality ingredients in a charming setting.",
+    "duration": "Mon-Sun (10:00-21:00)",
+    "address": "Aleja Mladosti 7, Bugojno",
+    "type": "restaurant",
+    "location": "44.1720, 17.5948"
+  },
+  {
+    "foodName": "The Bread Basket",
+    "imageFile": "https://img.freepik.com/free-photo/sweet-pastry-assortment-top-view_23-2148516578.jpg?t=st=1720196772~exp=1720200372~hmac=c6189bc58ae639f1c517a28be8b3a8368eea0a261f62dca38d06199ead6d7ce2&w=2000",
+    "description": "Enjoy a wide selection of freshly baked bread and pastries at The Bread Basket. Known for its high-quality products and friendly service.",
+    "duration": "Mon-Sun (06:00-20:00)",
+    "address": "Gornja Mahala 4, Bugojno",
+    "type": "bakery",
+    "location": "44.1732, 17.5984"
+  },
+  {
+    "foodName": "Gourmet Stop",
+    "imageFile": "https://img.freepik.com/premium-photo/lot-different-bread-basket-wooden-table_763111-824.jpg?w=1480",
+    "description": "Gourmet Stop offers an array of baked goods and gourmet treats. Ideal for those who appreciate fine pastries and artisanal bread.",
+    "duration": "Mon-Sun (07:00-22:00)",
+    "address": "Nova Ulica 12, Bugojno",
+    "type": "bakery",
+    "location": "44.1725, 17.5957"
+  },
+  {
+    "foodName": "Fusion Feast",
+    "imageFile": "https://img.freepik.com/free-photo/wine-glasses-set-table-part-inviting-dinner-setting_157027-4262.jpg?t=st=1720197305~exp=1720200905~hmac=0dcb0d3a4f9cf75971a2f278b8c85a6e26b1e7b0dda24d1c78a35cc6dedbf890&w=2000",
+    "description": "Fusion Feast combines local and international flavors in a stylish setting. Perfect for a family dinner or a casual meal with friends.",
+    "duration": "Mon-Sun (11:00-23:00)",
+    "address": "Centralni Park 8, Bugojno",
+    "type": "bistro",
+    "location": "44.1708, 17.5973"
+  },
+  {
+    "foodName": "Quick Bite Express",
+    "imageFile": "https://img.freepik.com/free-photo/view-delicious-burger-with-french-fries_23-2150887950.jpg?t=st=1720197338~exp=1720200938~hmac=54d97927e900b6877276bfbf29f0b3ab06f82c1ba1960fda5ec408de3114b2e2&w=2000",
+    "description": "Quick Bite Express serves up fast food favorites including burgers, fries, and more. Ideal for a speedy and satisfying meal on the go.",
+    "duration": "Mon-Sun (10:00-22:00)",
+    "address": "Pionirska 5, Bugojno",
+    "type": "fast food",
+    "location": "44.1710, 17.5992"
+  },
+  {
+    "foodName": "Sugar & Spice",
+    "imageFile": "https://img.freepik.com/free-photo/portioned-honey-cake-served-with-tea_140725-5053.jpg?t=st=1720197389~exp=1720200989~hmac=c49aa458d2a48871b40ee549e754c283350e9489ed9ba919e81d70bff958f582&w=996",
+    "description": "Indulge in a variety of sweet treats and desserts at Sugar & Spice. From cakes to pastries, it’s the perfect place for dessert lovers.",
+    "duration": "Mon-Sun (07:00-20:00)",
+    "address": "Jozefina 6, Bugojno",
+    "type": "desserts",
+    "location": "44.1696, 17.6004"
+  }
+]
 
